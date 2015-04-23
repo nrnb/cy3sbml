@@ -1,5 +1,7 @@
-package cysbml;
+package mkoenig.internal;
+
 public class CySBMLConstants {
+	/** Important constants for cy3sbml. */
 	public static final String ATT_ID = "sbml id";
 	public static final String ATT_TYPE = "sbml type";
 	public static final String ATT_METAID = "sbml metaId";
